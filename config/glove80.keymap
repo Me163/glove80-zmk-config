@@ -144,7 +144,7 @@
   &kp TAB    &kp GRAVE   &kp LBRC    &kp LPAR     &kp LBKT  &kp COLON                                                                  &kp BSLH  &kp RBKT     &kp RPAR    &kp RBRC    &kp BSLH  &kp EQUAL
     &kp PLUS     &kp Q    &kp W     &kp E      &kp R   &kp T                                                                   &kp Y   &kp U      &kp I     &kp O     &kp P   &kp PIPE
     &kp ESC     &kp A &kp S &kp D    &kp F &kp G                                                   &kp H &kp J  &kp K  &kp L  &kp SEMI &kp EQUAL
-  &kp MINUS     &kp Z    &kp X     &kp C      &kp V   &kp B  &kp LSHIFT  &kp LALT    &kp LCTRL  &kp RGUI  &kp RALT  &kp RSHIFT   &kp N   &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp UNDER
+  &kp MINUS     &kp Z    &kp X     &kp C      &kp V   &kp B  &kp LSHIFT  &kp LALT    &kp LCTRL  &kp RGUI  &kp LALT  &kp RSHIFT   &kp N   &kp M  &kp COMMA   &kp DOT  &kp FSLH  &kp UNDER
  &magic 3 0  &kp EXCL  &kp COLON  &kp LPAR  &kp RPAR           &lt 2 SPACE &kp BSPC   &kp TAB   &kp DQT &kp SQT &lt 3 ENTER          &kp GRAVE &kp LT &kp GT &kp QMARK &kp TILDE
             >;
         };
